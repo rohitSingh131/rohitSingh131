@@ -17,6 +17,8 @@
 
 - 📫 How to reach me **r.singh789583@gmail.com**
 
+- 📄 Know about my experiences [https://resume.io/r/Z84rR27Ha](https://resume.io/r/Z84rR27Ha)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rohit-singh-370506263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit-singh-370506263" height="30" width="40" /></a>
